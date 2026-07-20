@@ -30,3 +30,12 @@ My goal is to become a Machine Learning Engineer by building real-world projects
 **Started:** July 2026
 
 Learning one day at a time.
+
+ML-Bootcamp/
+│
+├── Day01/
+│   └── notes.md
+│
+├── datasets/
+│
+└── README.md
